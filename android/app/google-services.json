@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "521960390514",
+    "firebase_url": "https://flashchatapp-ba917.firebaseio.com",
+    "project_id": "flashchatapp-ba917",
+    "storage_bucket": "flashchatapp-ba917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521960390514:android:6bba5bcc809cf9bbdd27eb",
+        "android_client_info": {
+          "package_name": "co.KartikSareen.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521960390514-hrgts3ru5ihhlb7mqvdrihnk07dqu00j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5uPwm0_no61LYMlxro73JyxJ0q_n5GBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521960390514-hrgts3ru5ihhlb7mqvdrihnk07dqu00j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
